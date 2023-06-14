@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jaafml2tar78n2j2/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-redux-toolkit/branch/main)
